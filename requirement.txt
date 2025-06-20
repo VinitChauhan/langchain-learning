@@ -1,0 +1,20 @@
+pandas
+jupyter
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+matplotlib
+numpy
+dotenv
+python-dotenv
+
+# LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-openai
+
+# Additional dependencies for chat models
+openai
+
